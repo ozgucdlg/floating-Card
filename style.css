@@ -46,7 +46,7 @@ h3 {
     height:100%;
     width:50%;
     background: url("d.png") rgb(145, 73, 73);
-    background-position: 100px;
+    background-position: 200px;
     background-repeat: no-repeat;
     transition:  1s;
 
